@@ -25,7 +25,7 @@ python2 main.py
 ```
 git clone https://github.com/Zucccs/PhoneSploit
 cd PhoneSploit
-pip install colorama
+pip2 install colorama
 python2 main_linux.py
 ```
 # IF ADB NOT FOUND
